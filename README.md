@@ -25,7 +25,7 @@ Gloocel_Pi: https://github.com/RoyArka/Gloocel_Pi
 ![Main Image](https://github.com/RoyArka/Gloocel_Django_Demo/blob/3348655031ae64e176d91e369301e1cce702933c/Gloocel_images/3.png)
 
 <p align="center">
-  <img width = "350px" src="https://github.com/RoyArka/Gloocel_Django_Demo/Gloocel_images/5.gif" />
+  <img width = "350px" src="https://github.com/RoyArka/Gloocel_Django_Demo/blob/41b94e35beed0779d51f9dbf372ca08e79b329ae/Gloocel_images/5.gif"/>
 </p>
 
 
