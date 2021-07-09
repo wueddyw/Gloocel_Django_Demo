@@ -22,10 +22,10 @@ Gloocel_Flutter Mobile App: https://github.com/RoyArka/Gloocel_Mobile
 Gloocel_Pi: https://github.com/RoyArka/Gloocel_Pi
 
 
-![Main Image](https://github.com/RoyArka/Gloocel_Django_Demo/blob/4b97d215f426de706099ab411988fa2117092165/Gloocel_images/3.png)
+![Main Image](https://github.com/RoyArka/Gloocel_Django_Demo/Gloocel_images/3.png)
 
 <p align="center">
-  <img width = "350px" src="https://github.com/RoyArka/Gloocel_Django_Demo/blob/36b4c504bb18da26605f7a9884cf0649a5c81d01/Gloocel_images/5.gif" />
+  <img width = "350px" src="https://github.com/RoyArka/Gloocel_Django_Demo/Gloocel_images/5.gif" />
 </p>
 
 
