@@ -17,9 +17,9 @@
   * python manage.py migrate
 
 
-Gloocel_Flutter Mobile App: https://github.com/RoyArka/Gloocel_Mobile_Demo
+Gloocel_Flutter Mobile App: https://github.com/wueddyw/Gloocel_Mobile_Demo
 
-Gloocel_Pi: https://github.com/RoyArka/Gloocel_Pi_Demo
+Gloocel_Pi: https://github.com/wueddyw/Gloocel_Pi_Demo
 
 
 ![Main Image](https://github.com/RoyArka/Gloocel_Django_Demo/blob/3348655031ae64e176d91e369301e1cce702933c/Gloocel_images/3.png)
